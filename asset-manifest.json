@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LatestNewsWebsite/static/css/main.073c9b0a.css",
+    "main.js": "/LatestNewsWebsite/static/js/main.e9d3ca53.js",
+    "static/js/787.60235f71.chunk.js": "/LatestNewsWebsite/static/js/787.60235f71.chunk.js",
+    "static/media/loading.gif": "/LatestNewsWebsite/static/media/loading.18b0fbed905bfc409e4f.gif",
+    "index.html": "/LatestNewsWebsite/index.html",
+    "main.073c9b0a.css.map": "/LatestNewsWebsite/static/css/main.073c9b0a.css.map",
+    "main.e9d3ca53.js.map": "/LatestNewsWebsite/static/js/main.e9d3ca53.js.map",
+    "787.60235f71.chunk.js.map": "/LatestNewsWebsite/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e9d3ca53.js"
+  ]
+}
